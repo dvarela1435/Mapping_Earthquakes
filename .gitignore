@@ -1,6 +1,11 @@
 # Module Folders
 \module_resources
 config.js
+major_eq_starter_logic.js
+majorAirports.json
+torontoNeighborhoods.json
+torontoRoutes.json
+
 # Compiled class file
 *.class
 
